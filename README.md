@@ -31,9 +31,9 @@ I build internal developer platforms—the infrastructure and tooling that lets 
 
 **Custom Autoscaling** — HPA implementation using application-specific metrics (not just CPU/memory), letting services scale based on what actually matters to them.
 
-**Go-based Observability Tooling** — Built diagnostic services that trace DNS queries, isolate infrastructure issues, and provide early warning for cluster health. One of these caught a cluster-wide DNS failure affecting 30 services before it became a full outage.
+**Go-based Observability Tooling** — Built custom go tooling still used in production to monitor past incidents. 
 
-**Observability Stack Migration** — Moved from New Relic to self-hosted Prometheus/Thanos/Grafana/ELK, improving retention and giving teams better visibility into their applications.
+**Observability Stack Migration** — Moved from SaaS provider to self-hosted Prometheus/Thanos/Grafana/ELK, improving retention and giving teams better visibility into their applications.
 
 ## Recent Writing
 
