@@ -11,7 +11,7 @@ Building self-service platforms that make deployment easy and fun. I treat inter
 
 ## What I Do
 
-I build internal developer platforms—the infrastructure and tooling that lets product teams ship faster without wrestling with YAML or waiting on tickets. My focus is on creating opinionated abstractions that hide complexity while giving developers the control they need.
+I build internal developer platforms, tooling and infrastrucutrethat lets product teams ship faster without wrestling with YAML or waiting on tickets. My focus is on creating streamlined automations that hide complexity while giving developers the control they need. 
 
 ## Technical Focus
 
